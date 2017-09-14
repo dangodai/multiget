@@ -4,7 +4,7 @@ Multi-GET coding challenge. Note: I assume *nix environment. My build script run
 
 ## Install
 ```sh
-$ git clone https://github.com/dangodai/multiget.git
+$ git clone https://github.com/dangodai/multiget.git && cd multiget
 $ npm install
 $ npm run build
 ```
